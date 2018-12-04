@@ -1,0 +1,132 @@
+/* subject background */
+
+.Subjects {
+    margin-left: 25%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+
+/* button of add subject */
+
+button {
+    width: 100px;
+    height: 40px;
+    border-radius: 3px;
+    background-color: #7b537d;
+    border: 1px solid;
+    margin-left: 87%;
+    border: none;
+    font-size: 12px;
+    color: #ffffff;
+    font-family: "Helvetica Neue";
+    font-weight: bold;
+    box-shadow: 0.5px 0.866px 1px rgba(53, 16, 56, 0.5);
+}
+
+button:hover {
+    background-color: green;
+    color: black;
+}
+
+
+/* all subject details list */
+
+
+/* serch book list start  */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body {
+    background: #f2f2f2;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+}
+
+.search {
+    width: 100%;
+    position: relative
+}
+
+.searchTerm {
+    float: left;
+    width: 80%;
+    border: 2px solid gray;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px;
+    outline: none;
+    color: black;
+}
+
+.searchTerm:focus {
+    color: black;
+}
+
+.searchButton {
+    position: absolute;
+    right: 55px;
+    width: 40px;
+    height: 36px;
+    border: 1px solid gray;
+    background: #7b537d;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+/*Resize the wrap to see the search bar change!*/
+
+.wrap {
+    width: 30%;
+    position: absolute;
+    top: 40%;
+    left: 78%;
+    transform: translate(-50%, -50%);
+}
+
+
+/* end Serch book list */
+
+
+/* book list table  start*/
+
+table {
+    margin-top: 10%;
+}
+
+
+/* book list table  end*/
+
+.subjectlist {
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 100%;
+    height: 500px;
+    background: white;
+    font-size: 20px;
+}
+
+
+/* start book list table */
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+/* end book list table */

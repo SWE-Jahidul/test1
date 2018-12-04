@@ -1,0 +1,163 @@
+body {
+  padding: 0;
+  background: white;
+  background: auto;
+  width: 100%;
+  margin-top: 0;
+  text-emphasis: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  /* background-color: rgb(39, 43, 76); */
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+  height: 60px;
+  width: 100%;
+  clear: both;
+}
+
+.dashbord {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+  width: 50%;
+}
+
+.student {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.class {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.ManageGrade {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.Exams {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.results {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.certification {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.teacher {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.configaration {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.backup {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.managelanguage {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.documentation {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.fon_end_result {
+  margin-left: 25%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+.vertical-menu {
+  width: 20%;
+  margin-top: 0;
+}
+
+.vertical-menu a {
+  /* background-color: rgb(39, 43, 76); */
+  color: white;
+  display: block;
+  padding: 5%;
+  text-decoration: none;
+}
+
+.vertical-menu a:hover {
+  background-color: white;
+  color: black;
+}
+
+.vertical-menu a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#mySidenav {
+  text-align: left;
+  font-size: 13px;
+  position: absolute;
+}
+
+img {
+  width: 20px;
+  height: auto;
+}
+
+ul li a {
+  color: #eee;
+  display: block;
+}
+
+ul li:hover {
+  background-color: #4CAF50;
+}
+
+ul li {
+  display: none;
+}
+
+#dash{
+  margin: 20px;
+  padding: 10px;
+  padding-left: 20px;
+
+}
+
+#box1
+{
+  padding: 30px;
+}
